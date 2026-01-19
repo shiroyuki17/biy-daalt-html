@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "uidaw",
+			"path": ".."
+		},
+		{
+			"name": "about",
+			"path": "../about"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "uidaw"
+	}
+}
